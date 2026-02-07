@@ -1,0 +1,14 @@
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\bin\Debug\net8.0\MedalBOT.exe
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\bin\Debug\net8.0\MedalBOT.deps.json
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\bin\Debug\net8.0\MedalBOT.runtimeconfig.json
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\bin\Debug\net8.0\MedalBOT.dll
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\bin\Debug\net8.0\MedalBOT.pdb
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.AssemblyInfoInputs.cache
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.AssemblyInfo.cs
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.csproj.CoreCompileInputs.cache
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.dll
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\refint\MedalBOT.dll
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.pdb
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\MedalBOT.genruntimeconfig.cache
+C:\Users\BC\source\repos\MedalBOT\MedalBOT\obj\Debug\net8.0\ref\MedalBOT.dll
